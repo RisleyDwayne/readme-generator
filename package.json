@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/RisleyDwayne/readme-generator#readme",
   "directories": {
-    "test": "test"
+    "test": "jest"
   },
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "i": "^0.3.6",
+    "inquirer": "^7.3.3",
+    "jest": "^26.4.1"
   }
 }
